@@ -29,6 +29,7 @@ Token chatда yuborilgani uchun uni almashtiring:
 1. @BotFather → `/mybots` → botni tanlang → **API Token → Revoke**
 2. Yangi tokenni `.env` ga yozing
 3. `.env` ni hech qachon GitHub'ga yuklamang (`.gitignore` da)
+4. Agar PostgreSQL ishlatadigan bo‘lsangiz, `.env` ga `DATABASE_URL` qo‘shing
 
 ---
 
