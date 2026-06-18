@@ -1,0 +1,43 @@
+[
+  {
+    "id": "m001",
+    "code": "101",
+    "title": "Namuna Kino",
+    "year": 2024,
+    "genre": "Drama",
+    "rating": "8.5",
+    "views": 0,
+    "description": "Bu namuna. /admin orqali yangi kino qo'shing, keyin buni o'chiring.",
+    "qualities": {
+      "480": {
+        "channelId": "",
+        "messageId": null,
+        "premium": false
+      }
+    },
+    "addedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "qualities": {
+      "480": {
+        "channelId": "-1004397622563",
+        "messageId": 4,
+        "premium": false
+      },
+      "1080": {
+        "channelId": "-1004397622563",
+        "messageId": 4,
+        "premium": true
+      }
+    },
+    "title": "ai",
+    "year": 2025,
+    "genre": "Komediya",
+    "description": "ai video asosida tayyorlangan kino",
+    "rating": "4",
+    "code": "1",
+    "id": "mmqcicym4uit",
+    "views": 1,
+    "addedAt": "2026-06-13T15:26:22.780Z"
+  }
+]

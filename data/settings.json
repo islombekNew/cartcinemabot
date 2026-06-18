@@ -1,0 +1,25 @@
+{
+  "cardNumber": "6262 5700 3598 5797",
+  "adminContact": "@Montrax_offical",
+  "baseChannelId": "https://t.me/+j7JTshacnSwyZWUy",
+  "premiumPrice": "20 000 so'm",
+  "premiumDays": 30,
+  "channels": [
+    {
+      "chat": "@montrax_kanal",
+      "title": "@montrax_kanal",
+      "type": "channel"
+    }
+  ],
+  "welcomeMsg": null,
+  "genres": [
+    "Jangari",
+    "Komediya",
+    "Drama",
+    "Fantastika",
+    "Qo'rqinchli",
+    "Multfilm",
+    "Melodrama",
+    "Detektiv"
+  ]
+}
